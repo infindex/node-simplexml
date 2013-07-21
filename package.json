@@ -1,0 +1,36 @@
+{
+  "name": "simplexml",
+  "version": "0.0.2",
+  "description": "Simple and easy json to xml converter",
+  "homepage": "https://github.com/infindex/node-simplexml",
+  "bugs": "https://github.com/infindex/node-simplexml/issues",
+  "keywords": [
+    "node simplexml",
+    "node xml",
+    "xml",
+    "jsontoxml"
+  ],
+  "author": {
+    "name": "Manjunath G",
+    "email": "infindex@gmail.com",
+    "url": ""
+  },
+  "main": "./lib/simplexml",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infindex/node-simplexml"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "elementtree": "~0.1.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-watch": "~0.4.4"
+  }
+}
