@@ -1,6 +1,6 @@
 {
   "name": "simplexml",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple and easy json to xml converter",
   "homepage": "https://github.com/infindex/node-simplexml",
   "bugs": "https://github.com/infindex/node-simplexml/issues",
